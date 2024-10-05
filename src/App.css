@@ -1,0 +1,19 @@
+body {
+  background-color: #f8f9fa;
+  margin-top: 20px;
+}
+
+.product-card {
+  margin-bottom: 20px;
+}
+
+.product-card img {
+  max-height: 250px;
+  object-fit: contain;
+}
+
+.pagination {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
